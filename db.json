@@ -1,16 +1,18 @@
-[
+{
+  "users" : [
     {
-      id: 1,
-      name: "yas",
-      email: "contact@ajaygiri.com",
-      username: "ajaygiri",
-      roles: [],
+      "id": 1,
+      "name": "yas",
+      "email": "contact@ajaygiri.com",
+      "username": "ajaygiri",
+      "roles": []
     },
     {
-      id: 2,
-      name: "giri",
-      email: "ajasgiri@gmail.com",
-      username: "ajsgiri",
-      roles: [],
+      "id": 2,
+      "name": "giri",
+      "email": "ajasgiri@gmail.com",
+      "username": "ajsgiri",
+      "roles": []
     }
-]
+ ]
+}

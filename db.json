@@ -20,20 +20,6 @@
       "email": "contact3@ajaygiri.com",
       "username": "avg3",
       "roles": []
-    },
-    {
-      "id": 4,
-      "name": "Pete",
-      "email": "contact4@ajaygiri.com",
-      "username": "avg4",
-      "roles": []
-    },
-    {
-      "id": 5,
-      "name": "Natasha",
-      "email": "contact5@ajaygiri.com",
-      "username": "avg5",
-      "roles": []
     }
   ]
 }
